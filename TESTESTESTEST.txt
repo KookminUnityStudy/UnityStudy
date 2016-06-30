@@ -1,15 +1,1 @@
-Yeah
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-
-
-
-asdfasdfasdfasdf
-=======
-aa
->>>>>>> refs/remotes/origin/master
-=======
->>>>>>> parent of 3aba642... 2st
+test
