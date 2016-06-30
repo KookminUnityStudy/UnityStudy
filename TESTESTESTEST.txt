@@ -1,4 +1,5 @@
 Yeah
+<<<<<<< HEAD
 
 
 
@@ -6,3 +7,6 @@ Yeah
 
 
 asdfasdfasdfasdf
+=======
+aa
+>>>>>>> refs/remotes/origin/master
