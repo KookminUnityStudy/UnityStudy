@@ -28,6 +28,7 @@ public class Stone : MonoBehaviour {
             gmComponent.RestartGame();
             //sunpark modified
             //2nd modified
+            //3rd modified
         }
     }
 }
