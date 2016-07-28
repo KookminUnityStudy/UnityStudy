@@ -35,5 +35,6 @@ public class Stone : MonoBehaviour {
     void TestMethod()
     {
         //it just checkout test
+        //2nd checkout test
     }
 }
