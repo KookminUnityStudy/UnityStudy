@@ -27,7 +27,7 @@ public class Stone : MonoBehaviour {
             GameManager gmComponent = GameObject.Find("GameManager").GetComponent<GameManager>();
             gmComponent.RestartGame();
             //sunpark modified
-            //2st modified
+            //2nd modified
         }
     }
 }
